@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@nestjs/mapped-types": "*",
+    "axios": "^1.11.0",
+    "ocr-space-api-wrapper": "^2.4.1",
+    "request": "^2.88.2"
+  }
+}
